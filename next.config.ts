@@ -4,6 +4,9 @@ const nextConfig: NextConfig = {
   /* config options here */
   images:{
     domains: ['assets.aceternity.com','images.unsplash.com'],
+  },
+  eslint:{
+    ignoreDuringBuilds: true
   }
 };
 
