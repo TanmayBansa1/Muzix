@@ -1,7 +1,6 @@
 "use client"
 import { instructors } from "@/data/isntructors";
 import { WavyBackground } from "./ui/wavy-backgroound";
-import { BackgroundGradient } from "./ui/background-gradient";
 import { AnimatedTooltip } from "./ui/animated-tooltip"
 ;
 export default function Instructors() {

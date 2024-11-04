@@ -8,7 +8,7 @@ interface Course {
   title: string;
   description: string;
   price: number;
-  isFeatured: Boolean;
+  isFeatured: boolean;
   slug: string;
   instructor: string;
   image: string | StaticImageData;
