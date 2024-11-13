@@ -1,3 +1,3 @@
-# Music Academy Website
+# Muzen
 
 A wonderful website project for a music academy created using Nextjs, Typescript, Tailwindcss, Acertenity UI
